@@ -1,0 +1,9 @@
+/* You can add global styles to this file, and also import other style files */
+@import "tailwindcss";
+
+/* Custom theme configuration (Tailwind v4 CSS-based config) */
+@theme {
+  /* Add your custom theme variables here if needed */
+}
+
+/* Add your global custom styles below */
